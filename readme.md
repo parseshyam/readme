@@ -25,7 +25,7 @@ This README would normally document whatever steps are necessary to get your app
 
 ### How do I get set up ?
 
-# Summary of set up
+#### Summary of set up
 
 Clone the repo and install the dependencies.
 
