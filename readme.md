@@ -4,7 +4,6 @@ This README would normally document whatever steps are necessary to get your app
 ˜
 
 ### What is this repository for?
-
 - Quick Summary :
   This repo is responsible for handeling all API's requests and responding for the same.
   All api's are built with express js framework (https://expressjs.com/)
@@ -50,9 +49,14 @@ Clone the repo and install the dependencies.
 
 - run `npm start` for running Express app in local machine
 
-# Deployment instructions
+#### Deployment instructions
 
-- 
+##### - EC2 : Create AWS EC2 instance.
+- Take pull from the git repository 
+- Setup .env in the root of the project directory.
+- Create a process using pm2 sudo pm2 start app.js
+- Logs: pm2 logs
+- Information about the process sudo pm2 info <process id>and list all the processes sudo pm2 list
 
 ####  Contribution guidelines
 
