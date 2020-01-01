@@ -29,7 +29,7 @@ This README would normally document whatever steps are necessary to get your app
 Clone the repo and install the dependencies.
 
 ```
-(git clone https://parse_shyam@bitbucket.org/simformteam/pool-trader-backendapi.git)
+git clone https://parse_shyam@bitbucket.org/simformteam/pool-trader-backendapi.git
 ```
 
 ####  Dependencies
@@ -52,14 +52,14 @@ Clone the repo and install the dependencies.
 #### Deployment instructions
 
 ##### - EC2 : Create AWS EC2 instance.
+```
 - Take pull from the git repository 
 - Setup .env in the root of the project directory.
-- Create a process using pm2 sudo pm2 start app.js
+- Create a process using pm2 sudo pm2 start index.js
 - Logs: pm2 logs
 - Information about the process sudo pm2 info <process id>and list all the processes sudo pm2 list
+```
 
 ####  Contribution guidelines
-
-- Writing tests
-- Code review
-- Other guidelines
+- [Express.js](http://expressjs.com)
+- [Fire Base] (https://firebase.google.com/docs)
