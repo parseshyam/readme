@@ -62,4 +62,4 @@ git clone https://parse_shyam@bitbucket.org/simformteam/pool-trader-backendapi.g
 
 ####  Contribution guidelines
 - [Express.js](http://expressjs.com)
-- [Fire Base] (https://firebase.google.com/docs)
+- [Fire Base](https://firebase.google.com/docs)
