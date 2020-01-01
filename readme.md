@@ -4,9 +4,9 @@ This README would normally document whatever steps are necessary to get your app
 ˜
 
 ### What is this repository for?
-- Quick Summary :
-  This repo is responsible for handeling all API's requests and responding for the same.
-  All api's are built with express js framework (https://expressjs.com/)
+##### - Quick Summary :
+- This repo is responsible for handeling all API's requests and responding for the same.
+- All api's are built with express js framework (https://expressjs.com/)
 - Express js Version used 4.17.1
 
 ### Requirements
