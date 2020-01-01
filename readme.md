@@ -33,20 +33,20 @@ Clone the repo and install the dependencies.
 (git clone https://parse_shyam@bitbucket.org/simformteam/pool-trader-backendapi.git)
 ```
 
-# Dependencies
+####  Dependencies
 
 - Install all dependencies using `npm install`
 
-# Configurations
+####  Configurations
 
 - Setup new `.env` file in root directory of the project.
 
-# Database configuration
+####  Database configuration
 
 - All configuration is done in root config dir.
 - In above existing `.env` file make changes for DB key value.
 
-# Running Locally
+####  Running Locally
 
 - run `npm start` for running Express app in local machine
 
@@ -54,7 +54,7 @@ Clone the repo and install the dependencies.
 
 - 
 
-### Contribution guidelines
+####  Contribution guidelines
 
 - Writing tests
 - Code review
