@@ -26,7 +26,13 @@ git clone https://parse_shyam@bitbucket.org/simformteam/pool-trader-admin.git
 
 ####  Dependencies
 
-- Install all dependencies using `npm install`
+- Install all dependencies using 
+```bash
+cd 
+
+# If you use npm
+npm install
+```
 
 ####  Configurations
 
